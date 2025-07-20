@@ -1,0 +1,44 @@
+-------- MON DASHBOARD --------
+[Mémoire]
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.0Gi       2.0Gi        39Mi       1.0Gi       2.8Gi
+Swap:          3.8Gi          0B       3.8Gi
+[Espace disque]
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.5M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv  120G  9.8G  104G   9% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M  8.0K  5.0M   1% /run/lock
+/dev/sda2                          2.0G   98M  1.7G   6% /boot
+tmpfs                              392M  120K  392M   1% /run/user/1000
+[Utilisateur courant]
+ubuntu
+[Processus le plus gourmand]
+    PID COMMAND         %CPU
+   4167 ps               100
+[Utilisateurs connectés]
+ubuntu   seat0        2025-07-11 21:52 (login screen)
+ubuntu   tty2         2025-07-11 21:52 (tty2)
+-------- FIN --------
+-------- MON DASHBOARD --------
+[Mémoire]
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       1.0Gi       2.0Gi        39Mi       1.0Gi       2.8Gi
+Swap:          3.8Gi          0B       3.8Gi
+[Espace disque]
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.5M  391M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv  120G  9.8G  104G   9% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M  8.0K  5.0M   1% /run/lock
+/dev/sda2                          2.0G   98M  1.7G   6% /boot
+tmpfs                              392M  120K  392M   1% /run/user/1000
+[Utilisateur courant]
+ubuntu
+[Processus le plus gourmand]
+    PID COMMAND         %CPU
+   4184 ps               100
+[Utilisateurs connectés]
+ubuntu   seat0        2025-07-11 21:52 (login screen)
+ubuntu   tty2         2025-07-11 21:52 (tty2)
+-------- FIN --------
